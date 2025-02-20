@@ -1,0 +1,9 @@
+pytesseract
+google-generativeai
+pandas
+selenium
+beautifulsoup4
+requests
+flask
+Pillow
+openpyxl

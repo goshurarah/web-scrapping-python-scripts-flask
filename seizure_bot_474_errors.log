@@ -1,0 +1,7 @@
+2024-12-23 21:26:14 - ERROR - No data found for the given date: 2024-12-22 21:26:12.897915 to 2024-12-23 21:26:12.897915 for Probates/Succession: None
+2024-12-23 21:26:52 - ERROR - Logout action failed: run_474_bots.<locals>.log_error() missing 1 required positional argument: 'exception'
+2024-12-23 21:26:52 - INFO - 127.0.0.1 - - [23/Dec/2024 21:26:52] "POST /run-seizure-474-bots HTTP/1.1" 200 -
+2024-12-23 21:27:38 - ERROR - No data found for the given date: 2024-12-22 21:27:36.033101 to 2024-12-23 21:27:36.033101 for Pre-foreclosure/Seizure: None
+2024-12-23 21:29:17 - ERROR - Logout action failed: run_451_bots.<locals>.log_error() missing 1 required positional argument: 'exception'
+2024-12-23 21:29:17 - INFO - 127.0.0.1 - - [23/Dec/2024 21:29:17] "POST /run-seizure-451-bots HTTP/1.1" 200 -
+2024-12-23 21:31:28 - INFO -  * Detected change in 'C:\\Users\\Huraira Akbar\\Desktop\\Docs\\flask_seizure_bot_runner\\app\\routes.py', reloading
